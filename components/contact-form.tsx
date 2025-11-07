@@ -51,7 +51,7 @@ export function ContactForm() {
                   <p className="text-foreground/70">
                     National Headquarters
                     <br />
-                    Dar es Salaam, Tanzania
+                    Nairobi, Kenya
                   </p>
                 </div>
               </div>
