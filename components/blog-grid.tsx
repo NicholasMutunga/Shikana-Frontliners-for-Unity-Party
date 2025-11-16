@@ -162,7 +162,7 @@ export function BlogGrid() {
                 </div>
 
                 <Link
-                  href={`/blog/${article.id}`}
+                  href={`/shared-ui/blog/${article.id}`}
                   className="inline-flex items-center gap-2 text-secondary font-bold hover:gap-3 transition-all"
                 >
                   Read More <ArrowRight size={16} />
